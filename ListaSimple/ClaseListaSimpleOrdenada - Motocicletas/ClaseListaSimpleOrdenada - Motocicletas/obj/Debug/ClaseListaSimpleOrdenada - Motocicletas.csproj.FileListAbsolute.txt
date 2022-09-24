@@ -1,0 +1,31 @@
+C:\Users\Humberto\source\repos\ClaseListaSimpleOrdenada - Motocicletas\ClaseListaSimpleOrdenada - Motocicletas\bin\Debug\ClaseListaSimpleOrdenada - Motocicletas.exe.config
+C:\Users\Humberto\source\repos\ClaseListaSimpleOrdenada - Motocicletas\ClaseListaSimpleOrdenada - Motocicletas\bin\Debug\ClaseListaSimpleOrdenada - Motocicletas.exe
+C:\Users\Humberto\source\repos\ClaseListaSimpleOrdenada - Motocicletas\ClaseListaSimpleOrdenada - Motocicletas\bin\Debug\ClaseListaSimpleOrdenada - Motocicletas.pdb
+C:\Users\Humberto\source\repos\ClaseListaSimpleOrdenada - Motocicletas\ClaseListaSimpleOrdenada - Motocicletas\obj\Debug\ClaseListaSimpleOrdenada - Motocicletas.csproj.AssemblyReference.cache
+C:\Users\Humberto\source\repos\ClaseListaSimpleOrdenada - Motocicletas\ClaseListaSimpleOrdenada - Motocicletas\obj\Debug\ClaseListaSimpleOrdenada___Motocicletas.Form1.resources
+C:\Users\Humberto\source\repos\ClaseListaSimpleOrdenada - Motocicletas\ClaseListaSimpleOrdenada - Motocicletas\obj\Debug\ClaseListaSimpleOrdenada___Motocicletas.Properties.Resources.resources
+C:\Users\Humberto\source\repos\ClaseListaSimpleOrdenada - Motocicletas\ClaseListaSimpleOrdenada - Motocicletas\obj\Debug\ClaseListaSimpleOrdenada - Motocicletas.csproj.GenerateResource.cache
+C:\Users\Humberto\source\repos\ClaseListaSimpleOrdenada - Motocicletas\ClaseListaSimpleOrdenada - Motocicletas\obj\Debug\ClaseListaSimpleOrdenada - Motocicletas.csproj.CoreCompileInputs.cache
+C:\Users\Humberto\source\repos\ClaseListaSimpleOrdenada - Motocicletas\ClaseListaSimpleOrdenada - Motocicletas\obj\Debug\ClaseListaSimpleOrdenada - Motocicletas.exe
+C:\Users\Humberto\source\repos\ClaseListaSimpleOrdenada - Motocicletas\ClaseListaSimpleOrdenada - Motocicletas\obj\Debug\ClaseListaSimpleOrdenada - Motocicletas.pdb
+C:\Users\cheno\Downloads\Escuela\ED\ListaSimple\ClaseListaSimpleOrdenada - Motocicletas\ClaseListaSimpleOrdenada - Motocicletas\bin\Debug\ClaseListaSimpleOrdenada - Motocicletas.exe.config
+C:\Users\cheno\Downloads\Escuela\ED\ListaSimple\ClaseListaSimpleOrdenada - Motocicletas\ClaseListaSimpleOrdenada - Motocicletas\bin\Debug\ClaseListaSimpleOrdenada - Motocicletas.exe
+C:\Users\cheno\Downloads\Escuela\ED\ListaSimple\ClaseListaSimpleOrdenada - Motocicletas\ClaseListaSimpleOrdenada - Motocicletas\bin\Debug\ClaseListaSimpleOrdenada - Motocicletas.pdb
+C:\Users\cheno\Downloads\Escuela\ED\ListaSimple\ClaseListaSimpleOrdenada - Motocicletas\ClaseListaSimpleOrdenada - Motocicletas\obj\Debug\ClaseListaSimpleOrdenada - Motocicletas.csproj.AssemblyReference.cache
+C:\Users\cheno\Downloads\Escuela\ED\ListaSimple\ClaseListaSimpleOrdenada - Motocicletas\ClaseListaSimpleOrdenada - Motocicletas\obj\Debug\ClaseListaSimpleOrdenada - Motocicletas.csproj.SuggestedBindingRedirects.cache
+C:\Users\cheno\Downloads\Escuela\ED\ListaSimple\ClaseListaSimpleOrdenada - Motocicletas\ClaseListaSimpleOrdenada - Motocicletas\obj\Debug\ClaseListaSimpleOrdenada___Motocicletas.Form1.resources
+C:\Users\cheno\Downloads\Escuela\ED\ListaSimple\ClaseListaSimpleOrdenada - Motocicletas\ClaseListaSimpleOrdenada - Motocicletas\obj\Debug\ClaseListaSimpleOrdenada___Motocicletas.Properties.Resources.resources
+C:\Users\cheno\Downloads\Escuela\ED\ListaSimple\ClaseListaSimpleOrdenada - Motocicletas\ClaseListaSimpleOrdenada - Motocicletas\obj\Debug\ClaseListaSimpleOrdenada - Motocicletas.csproj.GenerateResource.cache
+C:\Users\cheno\Downloads\Escuela\ED\ListaSimple\ClaseListaSimpleOrdenada - Motocicletas\ClaseListaSimpleOrdenada - Motocicletas\obj\Debug\ClaseListaSimpleOrdenada - Motocicletas.csproj.CoreCompileInputs.cache
+C:\Users\cheno\Downloads\Escuela\ED\ListaSimple\ClaseListaSimpleOrdenada - Motocicletas\ClaseListaSimpleOrdenada - Motocicletas\obj\Debug\ClaseListaSimpleOrdenada - Motocicletas.exe
+C:\Users\cheno\Downloads\Escuela\ED\ListaSimple\ClaseListaSimpleOrdenada - Motocicletas\ClaseListaSimpleOrdenada - Motocicletas\obj\Debug\ClaseListaSimpleOrdenada - Motocicletas.pdb
+C:\Users\cheno\Downloads\Escuela\Sem4\ED\ListaSimple\ClaseListaSimpleOrdenada - Motocicletas\ClaseListaSimpleOrdenada - Motocicletas\bin\Debug\ClaseListaSimpleOrdenada - Motocicletas.exe.config
+C:\Users\cheno\Downloads\Escuela\Sem4\ED\ListaSimple\ClaseListaSimpleOrdenada - Motocicletas\ClaseListaSimpleOrdenada - Motocicletas\bin\Debug\ClaseListaSimpleOrdenada - Motocicletas.exe
+C:\Users\cheno\Downloads\Escuela\Sem4\ED\ListaSimple\ClaseListaSimpleOrdenada - Motocicletas\ClaseListaSimpleOrdenada - Motocicletas\bin\Debug\ClaseListaSimpleOrdenada - Motocicletas.pdb
+C:\Users\cheno\Downloads\Escuela\Sem4\ED\ListaSimple\ClaseListaSimpleOrdenada - Motocicletas\ClaseListaSimpleOrdenada - Motocicletas\obj\Debug\ClaseListaSimpleOrdenada - Motocicletas.csproj.AssemblyReference.cache
+C:\Users\cheno\Downloads\Escuela\Sem4\ED\ListaSimple\ClaseListaSimpleOrdenada - Motocicletas\ClaseListaSimpleOrdenada - Motocicletas\obj\Debug\ClaseListaSimpleOrdenada___Motocicletas.Form1.resources
+C:\Users\cheno\Downloads\Escuela\Sem4\ED\ListaSimple\ClaseListaSimpleOrdenada - Motocicletas\ClaseListaSimpleOrdenada - Motocicletas\obj\Debug\ClaseListaSimpleOrdenada___Motocicletas.Properties.Resources.resources
+C:\Users\cheno\Downloads\Escuela\Sem4\ED\ListaSimple\ClaseListaSimpleOrdenada - Motocicletas\ClaseListaSimpleOrdenada - Motocicletas\obj\Debug\ClaseListaSimpleOrdenada - Motocicletas.csproj.GenerateResource.cache
+C:\Users\cheno\Downloads\Escuela\Sem4\ED\ListaSimple\ClaseListaSimpleOrdenada - Motocicletas\ClaseListaSimpleOrdenada - Motocicletas\obj\Debug\ClaseListaSimpleOrdenada - Motocicletas.csproj.CoreCompileInputs.cache
+C:\Users\cheno\Downloads\Escuela\Sem4\ED\ListaSimple\ClaseListaSimpleOrdenada - Motocicletas\ClaseListaSimpleOrdenada - Motocicletas\obj\Debug\ClaseListaSimpleOrdenada - Motocicletas.exe
+C:\Users\cheno\Downloads\Escuela\Sem4\ED\ListaSimple\ClaseListaSimpleOrdenada - Motocicletas\ClaseListaSimpleOrdenada - Motocicletas\obj\Debug\ClaseListaSimpleOrdenada - Motocicletas.pdb

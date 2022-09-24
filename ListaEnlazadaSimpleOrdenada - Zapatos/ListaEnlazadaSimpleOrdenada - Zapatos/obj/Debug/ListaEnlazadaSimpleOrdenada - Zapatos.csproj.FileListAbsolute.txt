@@ -1,0 +1,10 @@
+C:\Users\cheno\source\repos\ListaEnlazadaSimpleOrdenada - Zapatos\ListaEnlazadaSimpleOrdenada - Zapatos\bin\Debug\ListaEnlazadaSimpleOrdenada - Zapatos.exe.config
+C:\Users\cheno\source\repos\ListaEnlazadaSimpleOrdenada - Zapatos\ListaEnlazadaSimpleOrdenada - Zapatos\bin\Debug\ListaEnlazadaSimpleOrdenada - Zapatos.exe
+C:\Users\cheno\source\repos\ListaEnlazadaSimpleOrdenada - Zapatos\ListaEnlazadaSimpleOrdenada - Zapatos\bin\Debug\ListaEnlazadaSimpleOrdenada - Zapatos.pdb
+C:\Users\cheno\source\repos\ListaEnlazadaSimpleOrdenada - Zapatos\ListaEnlazadaSimpleOrdenada - Zapatos\obj\Debug\ListaEnlazadaSimpleOrdenada - Zapatos.csproj.AssemblyReference.cache
+C:\Users\cheno\source\repos\ListaEnlazadaSimpleOrdenada - Zapatos\ListaEnlazadaSimpleOrdenada - Zapatos\obj\Debug\ListaEnlazadaSimpleOrdenada___Zapatos.Form1.resources
+C:\Users\cheno\source\repos\ListaEnlazadaSimpleOrdenada - Zapatos\ListaEnlazadaSimpleOrdenada - Zapatos\obj\Debug\ListaEnlazadaSimpleOrdenada___Zapatos.Properties.Resources.resources
+C:\Users\cheno\source\repos\ListaEnlazadaSimpleOrdenada - Zapatos\ListaEnlazadaSimpleOrdenada - Zapatos\obj\Debug\ListaEnlazadaSimpleOrdenada - Zapatos.csproj.GenerateResource.cache
+C:\Users\cheno\source\repos\ListaEnlazadaSimpleOrdenada - Zapatos\ListaEnlazadaSimpleOrdenada - Zapatos\obj\Debug\ListaEnlazadaSimpleOrdenada - Zapatos.csproj.CoreCompileInputs.cache
+C:\Users\cheno\source\repos\ListaEnlazadaSimpleOrdenada - Zapatos\ListaEnlazadaSimpleOrdenada - Zapatos\obj\Debug\ListaEnlazadaSimpleOrdenada - Zapatos.exe
+C:\Users\cheno\source\repos\ListaEnlazadaSimpleOrdenada - Zapatos\ListaEnlazadaSimpleOrdenada - Zapatos\obj\Debug\ListaEnlazadaSimpleOrdenada - Zapatos.pdb

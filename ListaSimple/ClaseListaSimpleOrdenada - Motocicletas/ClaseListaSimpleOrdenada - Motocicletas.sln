@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32106.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClaseListaSimpleOrdenada - Motocicletas", "ClaseListaSimpleOrdenada - Motocicletas\ClaseListaSimpleOrdenada - Motocicletas.csproj", "{4CC7AC9A-2237-48C5-945B-B15F4C824A0D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4CC7AC9A-2237-48C5-945B-B15F4C824A0D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4CC7AC9A-2237-48C5-945B-B15F4C824A0D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4CC7AC9A-2237-48C5-945B-B15F4C824A0D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4CC7AC9A-2237-48C5-945B-B15F4C824A0D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ABDC7A09-3586-4725-983F-B585F8D03004}
+	EndGlobalSection
+EndGlobal
